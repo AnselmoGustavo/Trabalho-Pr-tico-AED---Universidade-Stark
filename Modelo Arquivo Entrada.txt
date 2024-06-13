@@ -1,0 +1,9 @@
+qtdCursos;qtdCandidatos
+codCurso1;nomeCurso;qtdVagas
+codCurso2;nomeCurso;qtdVagas
+...
+codCursoN;nomeCurso;qtdVagas
+nomeCandidato1;notaRed;notaMat;notaLing;codCursoOp1;codCursoOp2
+nomeCandidato2;notaRed;notaMat;notaLing;codCursoOp1;codCursoOp2
+...
+nomeCandidatoN;notaRed;notaMat;notaLing;codCursoOp1;codCursoOp2

@@ -1,0 +1,17 @@
+4;10
+1;Matemática;2
+2;Física;2
+3;Química;2
+4;Estatística;5
+Bob Esponja;600;700;800;1;2
+Pato Donald;700;700;800;1;2
+Mickey Mouse;800;700;800;1;2
+João Silva;600;500;400;1;4
+Peppa Pig;700;700;500;3;2
+Peter Parker;700;850;800;3;4
+Deadpool;900;700;800;3;4
+Pedro Souza;700;400;400;3;2
+Super Mario Bros;600;600;500;4;3
+Tio Patinhas;700;700;600;4;2
+
+

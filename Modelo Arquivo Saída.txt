@@ -1,0 +1,22 @@
+nomeCurso1 notaCorte
+Selecionados
+nomePrimeiroClassificado notaMedia
+nomeSegundoClassificado notaMedia
+...
+nomeUltimoClassificado notaMedia
+Fila de Espera
+nomePrimeiroClassificado notaMedia
+nomeSegundoClassificado notaMedia
+...
+nomeUltimoClassificado notaMedia
+nomeCurso2 notaCorte
+Selecionados
+nomePrimeiroClassificado notaMedia
+nomeSegundoClassificado notaMedia
+...
+nomeUltimoClassificado notaMedia
+Fila de Espera
+nomePrimeiroClassificado notaMedia
+nomeSegundoClassificado notaMedia
+...
+nomeUltimoClassificado notaMedia

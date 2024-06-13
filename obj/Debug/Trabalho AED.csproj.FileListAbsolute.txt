@@ -1,0 +1,23 @@
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\bin\Debug\Trabalho AED.exe
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\bin\Debug\Trabalho AED.pdb
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\obj\Debug\Trabalho AED.csproj.AssemblyReference.cache
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\obj\Debug\Trabalho AED.csproj.SuggestedBindingRedirects.cache
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\obj\Debug\Trabalho AED.csproj.CoreCompileInputs.cache
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\obj\Debug\Trabalho AED.exe
+E:\Users\gusta\Área de Trabalho\VS\Trabalho AED\obj\Debug\Trabalho AED.pdb
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.AssemblyReference.cache
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.CoreCompileInputs.cache
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\1138057\Desktop\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.AssemblyReference.cache
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.SuggestedBindingRedirects.cache
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.CoreCompileInputs.cache
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+E:\Users\gusta\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
